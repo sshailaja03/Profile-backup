@@ -1,5 +1,11 @@
 <div align="center">
 
+![Isometric computer engineering workspace](./assets/engineering-hero.svg)
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Shailaja Singh 👋
 
 ### Computer Science Engineering Student · C++ Developer · Software Builder
@@ -130,6 +136,16 @@ Strong fundamentals  +  Curiosity  +  Consistent execution
 ```
 
 I enjoy breaking difficult problems into smaller parts, understanding the trade-offs behind a solution, and turning ideas into software that can be demonstrated and explained.
+
+## Engineering activity in 3D
+
+<div align="center">
+
+![Shailaja Singh's 3D contribution calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<sub>Generated automatically from my GitHub contribution history.</sub>
+
+</div>
 
 ## Currently improving
 
